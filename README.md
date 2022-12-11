@@ -1,1 +1,1 @@
-https://DaryaLykholit.github.io/rsschool-cv/cv
+https://DaryaLykholit.github.io/rsschool-cv/
