@@ -14,15 +14,20 @@ I am an excellent team worker and really have willingness to learn and develop n
 I am hardworking, reliable and often try to find new way to resolve the task.
 
 ---
+
 #### *Education*
-Zaporizka Derzhavna Inzhenerna Akademija
+Zaporizka Derzhavna Inzhenerna Akademiya
+
 "Accounting & Audit", Master
+
 2001 -2007
+
 ---
 
 #### *Work Experince*
 * Raiffeisen Bank Aval, economist
 * Erste Bank, economist
+
 ---
 
 #### *Code Example*
@@ -31,6 +36,7 @@ function multiply(a, b){
  return a * b;
 }
 ```
+---
 
 #### *Languages*
 * Ukrainian - native speaker
